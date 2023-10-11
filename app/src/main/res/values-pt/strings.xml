@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">WorkoutApp</string>
+    <string name="onboard_title">Com o nosso aplicativo, você pode acompanhar o seu progresso, criar planos de treino e dieta, e obter recomendações de especialistas em fitness.</string>
+    <string name="get_started">Começar</string>
+    <string name="exercises">Exercícios</string>
+    <string name="see_all">Ver Todos</string>
+    <string name="push_up">Flexão de Braço</string>
+    <string name="squats">Agachamentos</string>
+    <string name="plank">Prancha</string>
+    <string name="jumping_jacks">Pulos Jack</string>
+    <string name="mountain_climbers">Montanhistas</string>
+    <string name="burpees">Burpees</string>
+    <string name="high_knees">Joelhos Altos</string>
+    <string name="lunges">Avanços</string>
+    <string name="russian_twists">Giros Russos</string>
+    <string name="bicycle_crunches">Abdominais de Bicicleta</string>
+    <string name="wall_sit">Agachamento na Parede</string>
+    <string name="push_up_and_rotation">Flexão de Braço com Rotação</string>
+    <string name="tricep_dips">Mergulhos para Tríceps</string>
+    <string name="plank_with_leg_lift">Prancha com Elevação de Perna</string>
+    <string name="side_plank_left">Prancha Lateral (Esquerda)</string>
+    <string name="side_plank_right">Prancha Lateral (Direita)</string>
+    <string name="jump_squats">Agachamentos com Saltos</string>
+    <string name="flutter_kicks">Chutes Flutuantes</string>
+    <string name="superman">Superman</string>
+    <string name="box_jumps">Saltos em Caixa</string>
+    <string name="perform_a_push_up_with_proper_form">Realize uma flexão de braço com forma adequada.</string>
+    <string name="perform_squats_with_feet_shoulder_width_apart">Realize agachamentos com os pés na largura dos ombros.</string>
+    <string name="hold_a_plank_position_with_a_straight_back">Mantenha a posição de prancha com as costas retas.</string>
+    <string name="do_jumping_jacks_with_arms_and_legs_spreading_out_and_in">Faça pulos Jack com os braços e pernas se abrindo e fechando.</string>
+    <string name="do_mountain_climbers_by_bringing_knees_to_chest_alternately">Faça montanhistas trazendo os joelhos alternadamente ao peito.</string>
+    <string name="perform_burpees_by_combining_squat_push_up_and_jump">Realize burpees combinando agachamento, flexão de braço e salto.</string>
+    <string name="run_in_place_while_bringing_knees_up_towards_the_chest">Corra no lugar enquanto eleva os joelhos em direção ao peito.</string>
+    <string name="do_lunges_by_stepping_forward_and_bending_both_knees">Faça avanços dando passos à frente e dobrando ambos os joelhos.</string>
+    <string name="sit_down_lean_back_and_twist_torso_to_touch_the_ground_on_each_side">Sente-se, incline-se para trás e gire o tronco para tocar o chão de cada lado.</string>
+    <string name="lie_on_your_back_and_pedal_legs_in_a_bicycle_motion_while_crunching">Deite-se de costas e pedale as pernas em um movimento de bicicleta enquanto faz abdominais.</string>
+    <string name="sit_against_a_wall_with_thighs_parallel_to_the_ground">Sente-se contra uma parede com as coxas paralelas ao chão.</string>
+    <string name="perform_a_push_up_and_rotate_to_raise_one_arm_towards_the_ceiling">Faça uma flexão de braço e gire para elevar um braço em direção ao teto.</string>
+    <string name="use_a_chair_to_perform_tricep_dips_lowering_and_raising_your_body">Use uma cadeira para fazer mergulhos para tríceps, abaixando e elevando o corpo.</string>
+    <string name="hold_a_plank_position_and_lift_one_leg_at_a_time">Mantenha a posição de prancha e levante uma perna de cada vez.</string>
+    <string name="balance_on_your_left_forearm_and_side_keeping_your_body_straight">Equilibre-se no antebraço esquerdo e no lado, mantendo o corpo reto.</string>
+    <string name="balance_on_your_right_forearm_and_side_keeping_your_body_straight">Equilibre-se no antebraço direito e no lado, mantendo o corpo reto.</string>
+    <string name="do_squats_and_add_a_jump_at_the_end_of_each_squat">Faça agachamentos e adicione um salto no final de cada agachamento.</string>
+    <string name="lie_on_your_back_and_flutter_your_legs_up_and_down">Deite-se de costas e mova as pernas para cima e para baixo.</string>
+    <string name="lie_on_your_stomach_and_lift_arms_and_legs_off_the_ground">Deite-se de bruços e levante os braços e as pernas do chão.</string>
+    <string name="jump_onto_a_box_or_platform_and_step_back_down">Salte para uma caixa ou plataforma e desça de volta.</string>
+    <string name="full_body_blast">Explosão de Corpo Inteiro</string>
+    <string name="this_workout_is_designed_to_target_all_major_muscle_groups_in_your_body_including_legs_chest_back_shoulders_and_glutes_ideal_for_strengthening_and_sculpting_your_entire_body">Este treino foi projetado para focar em todos os principais grupos musculares do seu corpo, incluindo pernas, peito, costas, ombros e glúteos. Ideal para fortalecer e esculpir todo o seu corpo.</string>
+    <string name="hiit_intensity">Intensidade HIIT</string>
+    <string name="a_high_intensity_interval_training_hiit_session_to_help_you_burn_fat_and_improve_endurance_it_includes_short_bursts_of_intense_activity_with_brief_rest_periods">Uma sessão de treinamento intervalado de alta intensidade (HIIT) para ajudar a queimar gordura e melhorar a resistência. Inclui curtos períodos de atividade intensa com breves períodos de descanso.</string>
+    <string name="core_crusher">Esmagador de Núcleo</string>
+    <string name="focus_on_strengthening_your_core_muscles_with_this_workout_it_includes_exercises_to_target_your_abdominal_muscles_and_improve_core_stability">Concentre-se no fortalecimento dos músculos do seu núcleo com este treino. Inclui exercícios para atingir os músculos abdominais e melhorar a estabilidade do núcleo.</string>
+    <string name="total_body_toning">Tonificação do Corpo Total</string>
+    <string name="this_program_is_designed_to_tone_and_strengthen_all_major_muscle_groups_providing_a_full_body_workout_it_s_great_for_building_overall_strength_and_fitness">Este programa é projetado para tonificar e fortalecer todos os principais grupos musculares, proporcionando um treino de corpo inteiro. É ótimo para desenvolver força e aptidão geral.</string>
+    <string name="min">" minuto"</string>
+    <string name="daily_diet">Dieta Diária</string>
+    <string name="cal">cal</string>
+    <string name="high_protein_diet">Dieta Rica em Proteínas</string>
+    <string name="description_this_high_protein_diet_is_designed_to_help_you_increase_muscle_mass_and_recover_after_intense_workouts_it_is_rich_in_proteins_which_are_essential_for_muscle_growth_and_repair_this_diet_plan_includes_a_variety_of_protein_rich_foods_to_support_your_fitness_goals_recommendations_breakfast_scrambled_eggs_with_vegetables_300_calories_lunch_grilled_chicken_salad_400_calories_snack_greek_yogurt_150_calories_dinner_salmon_with_quinoa_450_calories_snack_protein_shake_200_calories_total_calories_1500_calories_this_diet_provides_a_balanced_combination_of_proteins_healthy_fats_and_carbohydrates_to_fuel_your_workouts_and_optimize_recovery_remember_to_stay_hydrated_and_consult_with_a_nutritionist_or_dietitian_for_personalized_adjustments">"Descrição: Esta dieta rica em proteínas é projetada para ajudar a aumentar a massa muscular e recuperar após treinos intensos. É rica em proteínas, que são essenciais para o crescimento e reparo muscular. Este plano de dieta inclui uma variedade de alimentos ricos em proteínas para apoiar seus objetivos de fitness.
+
+Recomendações:
+- Café da manhã: Ovos Mexidos com Vegetais (300 calorias)
+- Almoço: Salada de Frango Grelhado (400 calorias)
+- Lanche: Iogurte Grego (150 calorias)
+- Jantar: Salmão com Quinoa (450 calorias)
+- Lanche: Shake de Proteína (200 calorias)
+
+Calorias Totais: 1500 calorias
+
+Esta dieta fornece uma combinação equilibrada de proteínas, gorduras saudáveis e carboidratos para alimentar seus treinos e otimizar a recuperação. Lembre-se de se manter hidratado e consultar um nutricionista ou dietista para ajustes personalizados."</string>
+    <string name="low_carb_diet">Dieta com Baixo Teor de Carboidratos</string>
+    <string name="description_this_low_carb_diet_focuses_on_reducing_carbohydrate_intake_to_help_you_shed_body_fat_it_s_suitable_for_athletes_looking_to_lose_weight_and_improve_their_body_composition_this_diet_emphasizes_whole_foods_and_limits_processed_carbohydrates_recommendations_breakfast_avocado_toast_350_calories_lunch_spinach_and_tofu_salad_300_calories_snack_almonds_200_calories_dinner_grilled_turkey_with_vegetables_400_calories_snack_cottage_cheese_150_calories_total_calories_1400_calories_by_reducing_carbs_and_increasing_protein_and_healthy_fats_this_diet_can_help_you_achieve_your_fitness_goals_make_sure_to_monitor_your_progress_and_adjust_the_diet_as_needed_with_the_guidance_of_a_healthcare_professional">"Descrição: Esta dieta com baixo teor de carboidratos foca na redução da ingestão de carboidratos para ajudar a eliminar a gordura corporal. É adequada para atletas que desejam perder peso e melhorar sua composição corporal. Esta dieta enfatiza alimentos integrais e limita carboidratos processados.
+
+Recomendações:
+- Café da manhã: Torrada de Abacate (350 calorias)
+- Almoço: Salada de Espinafre e Tofu (300 calorias)
+- Lanche: Amêndoas (200 calorias)
+- Jantar: Peru Grelhado com Vegetais (400 calorias)
+- Lanche: Queijo Cottage (150 calorias)
+
+Calorias Totais: 1400 calorias
+
+Ao reduzir os carboidratos e aumentar as proteínas e gorduras saudáveis, esta dieta pode ajudar a alcançar seus objetivos de fitness. Certifique-se de monitorar seu progresso e ajustar a dieta conforme necessário com a orientação de um profissional de saúde."</string>
+    <string name="balanced_diet">Dieta Equilibrada</string>
+    <string name="description_this_balanced_diet_provides_a_mix_of_proteins_carbohydrates_and_fats_to_enhance_overall_physical_performance_and_endurance_it_s_suitable_for_athletes_looking_to_maintain_their_fitness_levels_while_enjoying_a_variety_of_nutritious_foods_recommendations_breakfast_oatmeal_with_berries_350_calories_lunch_brown_rice_with_chicken_400_calories_snack_mixed_nuts_200_calories_dinner_baked_salmon_with_sweet_potato_450_calories_snack_fruit_salad_150_calories_total_calories_1550_calories_the_balanced_combination_of_macronutrients_in_this_diet_helps_sustain_energy_levels_throughout_the_day_adjust_portion_sizes_and_food_choices_as_needed_based_on_your_individual_needs_and_goals">"\n
+        Descrição: Esta dieta equilibrada fornece uma mistura de proteínas, carboidratos e gorduras para melhorar o desempenho físico geral e a resistência. É adequada para atletas que desejam manter seus níveis de condicionamento físico enquanto desfrutam de uma variedade de alimentos nutritivos.
+
+        Recomendações:
+        - Café da manhã: Aveia com Frutas Vermelhas (350 calorias)
+        - Almoço: Arroz Integral com Frango (400 calorias)
+        - Lanche: Castanhas Variadas (200 calorias)
+        - Jantar: Salmão Assado com Batata Doce (450 calorias)
+        - Lanche: Salada de Frutas (150 calorias)
+
+        Total de Calorias: 1550 calorias
+
+        A combinação equilibrada de macronutrientes nesta dieta ajuda a manter os níveis de energia ao longo do dia. Ajuste os tamanhos das porções e as escolhas de alimentos conforme necessário com base em suas necessidades e objetivos individuais.\n
+    "</string>
+    <string name="start_now">Comece agora!</string>
+    <string name="stop">Parar</string>
+    <string name="home">Início</string>
+    <string name="diet">Dieta</string>
+    <string name="today_is">Hoje é:</string>
+    <string name="second">" Segundos"</string>
+    <string name="continue_">Continuar</string>
+    <string name="end_training">Encerrar Treino</string>
+</resources>
